@@ -218,15 +218,5 @@ html, body {
     object-fit: contain;
   }
 
-  #corredor1 {
-    width: 100vw;
-  height: 100vh;
-  background-image: url('img/cenario3.png');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  position: relative;
-  overflow: hidden;
-}
 
   
